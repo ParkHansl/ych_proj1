@@ -81,6 +81,7 @@ app_ui = ui.page_fluid(
 # --- 서버 구성 ---
 def server(input, output, session):
     pass
+    pass
 
 
 app = App(app_ui, server)
